@@ -7,12 +7,9 @@ function App() {
   const [values, setValues] = useState(Array(9).fill(""));
   const [winner, setWinner] = useState("");
   const [xo, setXo] = useState("X");
-  const [over, setOver] = useState(false);
+  const [over, setOver] = useState();
 
   const checkWinner = (dup) => {
-    if(!values.includes('')){
-      setOver(true);
-    }
     const combinations = {
       h: [
         [0, 1, 2],
@@ -54,7 +51,10 @@ function App() {
       return;
     }
     const dup = [...values];
-
+    const temp = [...dup].sort()
+    if(!temp.includes('',1)){
+      setOver(true)
+    }
     if (xo === "X") {
       setXo("O");
     } else {

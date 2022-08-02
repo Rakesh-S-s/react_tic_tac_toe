@@ -1,15 +1,15 @@
 {
-  "main.css": "/tic_tac_toe/static/css/main.5d22bda4.chunk.css",
-  "main.js": "/tic_tac_toe/static/js/main.088362ce.chunk.js",
-  "main.js.map": "/tic_tac_toe/static/js/main.088362ce.chunk.js.map",
-  "static/css/1.d419748b.chunk.css": "/tic_tac_toe/static/css/1.d419748b.chunk.css",
-  "static/js/1.374e25bd.chunk.js": "/tic_tac_toe/static/js/1.374e25bd.chunk.js",
-  "static/js/1.374e25bd.chunk.js.map": "/tic_tac_toe/static/js/1.374e25bd.chunk.js.map",
-  "runtime~main.js": "/tic_tac_toe/static/js/runtime~main.47126480.js",
-  "runtime~main.js.map": "/tic_tac_toe/static/js/runtime~main.47126480.js.map",
-  "static/css/1.d419748b.chunk.css.map": "/tic_tac_toe/static/css/1.d419748b.chunk.css.map",
-  "static/css/main.5d22bda4.chunk.css.map": "/tic_tac_toe/static/css/main.5d22bda4.chunk.css.map",
-  "index.html": "/tic_tac_toe/index.html",
-  "precache-manifest.5452dada2a87a196b822e05da6157ede.js": "/tic_tac_toe/precache-manifest.5452dada2a87a196b822e05da6157ede.js",
-  "service-worker.js": "/tic_tac_toe/service-worker.js"
+  "main.css": "/react_tic_tac_toe/static/css/main.5d22bda4.chunk.css",
+  "main.js": "/react_tic_tac_toe/static/js/main.088362ce.chunk.js",
+  "main.js.map": "/react_tic_tac_toe/static/js/main.088362ce.chunk.js.map",
+  "static/css/1.d419748b.chunk.css": "/react_tic_tac_toe/static/css/1.d419748b.chunk.css",
+  "static/js/1.374e25bd.chunk.js": "/react_tic_tac_toe/static/js/1.374e25bd.chunk.js",
+  "static/js/1.374e25bd.chunk.js.map": "/react_tic_tac_toe/static/js/1.374e25bd.chunk.js.map",
+  "runtime~main.js": "/react_tic_tac_toe/static/js/runtime~main.22840068.js",
+  "runtime~main.js.map": "/react_tic_tac_toe/static/js/runtime~main.22840068.js.map",
+  "static/css/1.d419748b.chunk.css.map": "/react_tic_tac_toe/static/css/1.d419748b.chunk.css.map",
+  "static/css/main.5d22bda4.chunk.css.map": "/react_tic_tac_toe/static/css/main.5d22bda4.chunk.css.map",
+  "index.html": "/react_tic_tac_toe/index.html",
+  "precache-manifest.f07cfb086317659d3edb750ca9c16b8b.js": "/react_tic_tac_toe/precache-manifest.f07cfb086317659d3edb750ca9c16b8b.js",
+  "service-worker.js": "/react_tic_tac_toe/service-worker.js"
 }
